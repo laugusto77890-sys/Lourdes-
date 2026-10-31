@@ -37,7 +37,9 @@ Les intitulés exacts changent un peu selon la marque.
 
 ## Étape 1 : tout faire en une commande (parcours guidé)
 
-Dans un terminal (Windows : *Invite de commandes*), dans le dossier `android-tv` :
+**Le plus simple : double-cliquez sur `LANCER-Windows.bat` (Windows) ou `LANCER-Mac.command` (Mac).**
+
+Ou bien, dans un terminal ouvert dans le dossier `android-tv` :
 
 ```bash
 python3 outils/tv_allegement.py tout        # Windows : py outils\tv_allegement.py tout
