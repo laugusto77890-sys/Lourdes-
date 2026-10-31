@@ -1,0 +1,8 @@
+# Données propres à votre télé (sauvegardes, captures, journal) : restent sur votre ordinateur
+ma-tele/
+platform-tools/
+platform-tools.zip
+# Outils et fichiers intermédiaires de compilation
+launcher/.outils/
+launcher/build/
+__pycache__/
